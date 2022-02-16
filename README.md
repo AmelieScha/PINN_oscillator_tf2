@@ -9,7 +9,6 @@ My code differs from the original in that it
 In this code, we use a simple physical example problem to explain how PINNs work, how to implement them, and demonstrate their benefit compared to regular neural nets as function approximators.
 
 ## environment setup
-
-conda create -n pinn python=3.8
-conda activate pinn
-pip install -r requirements.txt
+conda create -n pinn python=3.8   
+conda activate pinn  
+pip install -r requirements.txt  
